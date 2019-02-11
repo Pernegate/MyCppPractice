@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/MyCppTest/.vs/MyCppTest/v15
